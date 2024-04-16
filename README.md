@@ -19,7 +19,7 @@ Truck Wise VR experience is a series of interactive stories that are each presen
 
 To use the Truck Wise App, follow these steps:
 
-1. **Download**: Download either or both zip files from the [Releases](https://github.com/your-username/truck-wise-app/releases) page. The first file "TruckWiseVRSeason1-2.zip" contains both season 1 and 2, the second file "TruckWiseVRSeason3-4.zip" contains both seaons 3 and 4.
+1. **Download**: Download either or both zip files from the [Releases](https://github.com/michael-mortimer/TruckWise/releases/tag/release) page. The first file "TruckWiseVR-Season1-2.zip" contains both season 1 and 2, the second file "TruckWiseVR-Season3-4.zip" contains both seaons 3 and 4.
 
 3. **Run**: Unzip file, find and run the relevant executable in unzipped folder. Before running executable ensure Oculus Desktop software is running and either an Oculus S or Oculus Quest is connect via link cable.
 
