@@ -1,6 +1,5 @@
 # Truck Wise App
 
-![Truck Wise Logo](https://www.truck-wise.com.au/assets/img/logo.png)
 
 Truck Wise Virtual Reality (VR) experience aim to educate and support young drivers around safe interactions between light and heavy vehicles. The VR experience is a series of interactive stories that present different scenarios between light and heavy vehicles highlighting important information and safety tips. Truck Wise has been funded by the Commonwealth Government via the National Heavy Vehicle Regulator (NHVR) and developed by Deakin University.
 
