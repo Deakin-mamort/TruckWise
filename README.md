@@ -25,7 +25,7 @@ To use the Truck Wise App, follow these steps:
 
 ## Usage
 
-Once application is running, you would be able to select relevent season from the menu. Press the "HOME" button to reset VR view as required, press "ESC" to quit the application when finished. 
+Once application is running, select relevent season from the menu. Press the "HOME" button to reset VR view as required, press "ESC" to quit the application when finished. 
 
 ## Support
 
