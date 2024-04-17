@@ -21,7 +21,7 @@ Truck Wise VR experience is a series of interactive stories that are each presen
 
 ## Installation
 
-To use the Truck Wise App, follow these steps:
+To use the Truck Wise VR experience, follow these steps:
 
 1. Download files from the [Releases](https://github.com/michael-mortimer/TruckWise/releases/tag/release) page. The first file "TruckWiseVR-Season1-2.zip" contains both season 1 and 2, the second file "TruckWiseVR-Season3-4.zip" contains both seaons 3 and 4, ignore source zip files as they only contain this readme.
 
