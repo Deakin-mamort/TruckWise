@@ -1,7 +1,9 @@
 # Truck Wise VR (Oculus S and Quest)
 
 
-Truck Wise Virtual Reality (VR) experience aim to educate and support young drivers around safe interactions between light and heavy vehicles. The VR experience is a series of interactive stories that present different scenarios between light and heavy vehicles highlighting important information and safety tips. Truck Wise has been funded by the Commonwealth Government via the National Heavy Vehicle Regulator (NHVR) and developed by Deakin University.
+Truck Wise Virtual Reality (VR) experience aim to educate and support young drivers around safe interactions between light and heavy vehicles. The VR experience is a series of interactive stories that present different scenarios between light and heavy vehicles highlighting important information and safety tips. Truck Wise has been funded by the Commonwealth Government via the National Heavy Vehicle Regulator (NHVR) and developed by Deakin University. 
+
+**Truck Wise VR requires either an Oculus-S or Oculus Quest VR headset. When using an Oculus Quest it must be connect via Oculus link to Oculus Desktop software and will not run on the headset alone.**
 
 ## Features
 
