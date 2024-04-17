@@ -33,7 +33,7 @@ Once application is running, select relevent season from the menu. Press the "HO
 
 ## Support
 
-If you encounter any issues or have questions about the Truck Wise App, please [contact us](mailto:cavemembers@deakin.edu.au) for assistance.
+If you encounter any issues or have questions about the Truck Wise VR experience, please [contact us](mailto:cavemembers@deakin.edu.au) for assistance.
 
 ## License
 
