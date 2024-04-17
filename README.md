@@ -1,4 +1,4 @@
-# Truck Wise App
+# Truck Wise VR (Oculus S and Quest)
 
 
 Truck Wise Virtual Reality (VR) experience aim to educate and support young drivers around safe interactions between light and heavy vehicles. The VR experience is a series of interactive stories that present different scenarios between light and heavy vehicles highlighting important information and safety tips. Truck Wise has been funded by the Commonwealth Government via the National Heavy Vehicle Regulator (NHVR) and developed by Deakin University.
@@ -19,9 +19,9 @@ Truck Wise VR experience is a series of interactive stories that are each presen
 
 To use the Truck Wise App, follow these steps:
 
-1. **Download**: Download files from the [Releases](https://github.com/michael-mortimer/TruckWise/releases/tag/release) page. The first file "TruckWiseVR-Season1-2.zip" contains both season 1 and 2, the second file "TruckWiseVR-Season3-4.zip" contains both seaons 3 and 4, ignore source zip files as they only contain this readme.
+1. Download files from the [Releases](https://github.com/michael-mortimer/TruckWise/releases/tag/release) page. The first file "TruckWiseVR-Season1-2.zip" contains both season 1 and 2, the second file "TruckWiseVR-Season3-4.zip" contains both seaons 3 and 4, ignore source zip files as they only contain this readme.
 
-3. **Run**: Unzip file, find and run the relevant executable in unzipped folder. Before running executable ensure Oculus Desktop software is running and either an Oculus S or Oculus Quest is connect via link cable.
+3. Unzip file, find and run the relevant executable in unzipped folder. Before running executable ensure Oculus Desktop software is running and either an Oculus S or Oculus Quest is connect via link cable.
 
 ## Usage
 
