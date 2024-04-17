@@ -1,5 +1,6 @@
-# Truck Wise VR (Oculus S and Quest)
+![truckwise-logo](https://github.com/michael-mortimer/TruckWise/assets/8704861/707aa55d-2870-427d-b058-a8b8cc4f6567)
 
+# Truck Wise VR (Oculus S and Quest)
 
 Truck Wise Virtual Reality (VR) experience aim to educate and support young drivers around safe interactions between light and heavy vehicles. The VR experience is a series of interactive stories that present different scenarios between light and heavy vehicles highlighting important information and safety tips. Truck Wise has been funded by the Commonwealth Government via the National Heavy Vehicle Regulator (NHVR) and developed by Deakin University. 
 
