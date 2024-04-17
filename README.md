@@ -1,4 +1,4 @@
-![truckwise-logo](https://github.com/michael-mortimer/TruckWise/assets/8704861/707aa55d-2870-427d-b058-a8b8cc4f6567)
+![truckwise-logo](https://github.com/michael-mortimer/TruckWise/assets/8704861/fc46f044-1f75-4332-bc49-168f6c9287e5)
 
 # Truck Wise VR (Oculus S and Quest)
 
