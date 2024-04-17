@@ -13,7 +13,7 @@ Truck Wise VR experience is a series of interactive stories that are each presen
 
 - **Season 3**: highlights the extra care required when overlaking long and heavy vehicles.
 
-- **Season 4**: is about heavy vehciles blindspots and how best to navigate around them.
+- **Season 4**: is about heavy vehicle blindspots and how best to navigate around them.
 
 ## Installation
 
